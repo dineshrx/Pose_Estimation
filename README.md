@@ -12,7 +12,7 @@ This project focuses on analyzing and estimating human poses from images or vide
 
 Check out this demo video showcasing the pose estimation:
 
-[![Pose Estimation Demo](https://img.youtube.com/vi/VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID_HERE)
+[![Pose Estimation Demo](https://img.youtube.com/vi/VIDEO_ID_HERE/0.jpg)]([https://www.youtube.com/watch?v=VIDEO_ID_HERE](https://www.youtube.com/watch?v=onfa5L77yhw))
 
 Click the image above to watch the full video on YouTube.
 
