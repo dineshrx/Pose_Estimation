@@ -2,6 +2,11 @@
 <h1 align="center" id="title">Pose Estimation</h1>
 
 ## OUTPUT VIDEO
+
+(https://github.com/dineshrx/Pose_Estimation/blob/main/Output%20Image.JPG?raw=true)
+
+[https://github.com/dineshrx/Pose_Estimation/blob/main/Output%20Image.JPG?raw=true]
+
 (https://www.youtube.com/shorts/5vGJZDGETKU)
 
 ## Introduction
