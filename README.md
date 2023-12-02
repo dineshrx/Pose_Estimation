@@ -1,7 +1,8 @@
 
 <h1 align="center" id="title">Pose Estimation</h1>
 
-https://github.com/dineshrx/Pose_Estimation/assets/144202549/88578f11-aa60-4f9c-aef9-5ce9ffbdc5c1
+[![Video](http://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/shorts/5vGJZDGETKU)
+
 
 
 ## Introduction
