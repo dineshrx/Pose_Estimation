@@ -1,11 +1,10 @@
 
 <h1 align="center" id="title">Pose Estimation</h1>
 
-## OUTPUT VIDEO
-![Image Alt Text](https://github.com/dineshrx/Pose_Estimation/blob/main/Output%20Image.JPG?raw=true)
-
+## OUTPUT
 
 (https://www.youtube.com/shorts/5vGJZDGETKU)
+![Image Alt Text](https://github.com/dineshrx/Pose_Estimation/blob/main/Output%20Image.JPG?raw=true)
 
 ## Introduction
 <p id="description">
