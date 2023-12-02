@@ -3,6 +3,9 @@
 
 [![Video](http://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/shorts/5vGJZDGETKU)
 
+ffmpeg -ss 00:00:10 -i input_video.mp4 -t 10 -vf "fps=15,scale=480:-1:flags=lanczos" output.mp4
+![GIF Preview](output.mp4.gif)
+
 
 
 ## Introduction
