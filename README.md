@@ -1,8 +1,11 @@
 
 <h1 align="center" id="title">Pose Estimation</h1>
+
+https://github.com/dineshrx/Pose_Estimation/assets/144202549/88578f11-aa60-4f9c-aef9-5ce9ffbdc5c1
+
+
 ## Introduction
 <p id="description">
-
 Welcome to the Pose Estimation Project! This project focuses on analyzing and estimating human poses from images or videos. Using cutting-edge computer vision techniques, this repository provides tools and models to accurately detect and estimate key points of the human body.
 
 ## What is Pose Estimation?
