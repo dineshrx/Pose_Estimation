@@ -3,6 +3,7 @@
 
 ## OUTPUT VIDEO
 (https://www.youtube.com/shorts/5vGJZDGETKU)
+(https://github.com/dineshrx/Pose_Estimation/blob/main/Output%20Image.JPG?raw=true)
 
 
 
