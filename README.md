@@ -1,8 +1,6 @@
 
 <h1 align="center" id="title">Pose Estimation</h1>
-
-<p align="center"><img src="https://aigeekprogrammer.com/wp-content/uploads/2021/06/YOLO.jpg" alt="project-image"></p>
-
+(https://drive.google.com/file/d/1EphpxwgrJkA7F-qGRY1ZUb67m_bRJh8-/view?usp=sharing)
 ## Introduction
 <p id="description">
 
