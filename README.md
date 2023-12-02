@@ -2,7 +2,7 @@
 <h1 align="center" id="title">Pose Estimation</h1>
 
 ## OUTPUT VIDEO
-(http://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/shorts/5vGJZDGETKU)
+(https://www.youtube.com/shorts/5vGJZDGETKU)
 
 
 
