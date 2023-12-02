@@ -1,38 +1,5 @@
 
 <h1 align="center" id="title">Pose Estimation</h1>
-# Project Name
-
-Welcome to Project Name! This repository contains code and resources for pose estimation using Mediapipe and OpenCV.
-
-## Overview
-
-This project focuses on analyzing and estimating human poses from images or videos using Mediapipe's pose estimation models.
-
-## Demo
-
-Check out this demo video showcasing the pose estimation:
-
-[![Pose Estimation Demo](https://img.youtube.com/vi/VIDEO_ID_HERE/0.jpg)]([https://www.youtube.com/watch?v=VIDEO_ID_HERE](https://www.youtube.com/watch?v=onfa5L77yhw))
-
-Click the image above to watch the full video on YouTube.
-
-## Usage
-
-To run the pose estimation code:
-
-1. Clone the repository.
-2. Install the required libraries: `pip install -r requirements.txt`.
-3. Run the script: `python pose_estimation.py`.
-
-## Contributing
-
-Contributions are welcome! If you'd like to contribute to this project, please follow the guidelines outlined in the [CONTRIBUTING.md](CONTRIBUTING.md) file.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-
 ## Introduction
 <p id="description">
 
