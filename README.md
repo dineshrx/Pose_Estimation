@@ -3,8 +3,8 @@
 
 ## OUTPUT
 
+![Image Alt Text](https://github.com/dineshrx/Pose_Estimation/blob/main/Output%20Image.JPG?raw=true) <br>
 (https://www.youtube.com/shorts/5vGJZDGETKU)
-![Image Alt Text](https://github.com/dineshrx/Pose_Estimation/blob/main/Output%20Image.JPG?raw=true)
 
 ## Introduction
 <p id="description">
