@@ -3,7 +3,7 @@
 
 ## OUTPUT VIDEO
 (https://www.youtube.com/shorts/5vGJZDGETKU)
-![Image Alt Text](https://raw.githubusercontent.com/dineshrx/repository/main/Output Image.jpg)
+![Image Alt Text](https://github.com/dineshrx/Pose_Estimation/blob/main/Output%20Image.JPG?raw=true)
 
 
 
